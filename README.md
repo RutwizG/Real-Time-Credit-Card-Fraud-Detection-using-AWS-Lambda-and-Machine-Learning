@@ -1,2 +1,2 @@
 # Real-Time-Credit-Card-Fraud-Detection-using-AWS-Lambda-and-Machine-Learning
-This project builds a real-time fraud detection system using AWS Lambda and machine learning to analyze credit card transaction data. The system detects anomalies like unusual spending patterns, volume spikes, and high transaction amounts to flag fraudulent activities. Results are stored in S3 and monitored via CloudWatch.
+This project builds a real-time fraud detection system using AWS Lambda and machine learning to analyze credit card transaction data. The system detects anomalies like unusual spending patterns, volume spikes, and high transaction amounts to flag fraudulent activities. Results are stored in S3 and monitored via CloudWatch.      
